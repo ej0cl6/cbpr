@@ -12,14 +12,12 @@ If you find our paper or implementation is useful in your research, please consi
 references below for other algorithms.
 
     @inproceedings{Huang2016linucbpr,
-      author    = {Kuan-Hao Huang and
-                   Hsuan-Tien Lin},
-      title     = {Linear Upper Confidence Bound Algorithm for Contextual Bandit Problem
-                   with Piled Rewards},
-      booktitle = {Proceedings of the Pacific-Asia Conference on
-                   Knowledge Discovery and Data Mining (PAKDD)},
-      pages     = {143--155},
-      year      = {2016},
+        author    = {Kuan-Hao Huang and
+                     Hsuan-Tien Lin},
+        title     = {Linear Upper Confidence Bound Algorithm for Contextual Bandit Problem with Piled Rewards},
+        booktitle = {Proceedings of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
+        pages     = {143--155},
+        year      = {2016},
     }
 
 ### Prerequisites 
