@@ -6,7 +6,7 @@ Python implementation of our paper [Linear Upper Confidence Bound Algorithm for 
 - Linear Upper Confidence Bound (LinUCB)
 - Queued Partial Monitoring with Delays (QPM-D)
 - Epsilon-Greedy (EpsGreedy)
-- Random
+- Random Sampling
 
 If you find our paper or implementation is useful in your research, please consider citing our paper for LinUCBPR and the
 references below for other algorithms.
